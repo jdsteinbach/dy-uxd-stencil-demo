@@ -1,0 +1,18 @@
+:host {
+  display: contents;
+}
+
+button {
+  margin: 0 1rem;
+  padding: 0.25rem 1rem;
+  border: 0;
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+button:hover,
+button:active {
+  background-color: purple;
+}
